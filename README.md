@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Rahul3178
 - 👀 I’m interested in full stack java
-- 🌱 I’m currently learning advanced java 
-- 💞️ I’m looking to collaborate on ... core java projects 
+- 🌱 I’m currently learning JSP, Servlet, Hibernate. 
+- 💞️ I’m looking to collaborate on ...  java projects 
 - 📫 How to reach me ...
 
 <!---
