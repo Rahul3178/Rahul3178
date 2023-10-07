@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @Rahul3178
-- 👀 I’m interested in full stack java
-- 🌱 I’m currently learning JSP, Servlet, Hibernate. 
+- 👀 I’m interested in full stack Java React js
+- 🌱 I’m currently learning Spring Boot Microservice,JSP, Servlet, Hibernate.
+- ⚡ Skills - core Java, HTML,CSS, JS,React JS, Redux Toolkit, Formik
 - 💞️ I’m looking to collaborate on ...  java projects 
 - 📫 How to reach me ...
 
